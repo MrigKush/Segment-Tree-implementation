@@ -1,0 +1,4 @@
+c:\users\mrigendra\documents\visual studio 2010\projects\RangeQueryForMultiplication\RangeQueryForMultiplication\bin\Debug\RangeQueryForMultiplication.exe
+c:\users\mrigendra\documents\visual studio 2010\projects\RangeQueryForMultiplication\RangeQueryForMultiplication\bin\Debug\RangeQueryForMultiplication.pdb
+c:\users\mrigendra\documents\visual studio 2010\projects\RangeQueryForMultiplication\RangeQueryForMultiplication\obj\x86\Debug\RangeQueryForMultiplication.exe
+c:\users\mrigendra\documents\visual studio 2010\projects\RangeQueryForMultiplication\RangeQueryForMultiplication\obj\x86\Debug\RangeQueryForMultiplication.pdb
